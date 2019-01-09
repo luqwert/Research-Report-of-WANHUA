@@ -70,7 +70,7 @@ def report_download():
 def send_report():
     mail_host="smtp.qq.com"  #设置服务器
     mail_user="228383562@qq.com"    #用户名
-    mail_pass="waajnvtmdhiucbef"   #口令
+    mail_pass="*********"   #口令
     sender = '228383562@qq.com'
     receiversName = '个人邮箱'
     receivers = 'lusheng1234@126.com'
